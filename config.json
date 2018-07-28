@@ -1,0 +1,6 @@
+{
+    "region":"us-east-2",
+    "retentionDays":30,
+    "maxLogs":150,
+    "ignoreShorterPeriods": true
+}
