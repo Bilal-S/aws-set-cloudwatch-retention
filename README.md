@@ -8,7 +8,6 @@ After attempting to find an easy way to change the retention period for a few do
 After installation via `npm install` simply set the options in `config.json` and then run `npm start`.
 
 
-
 ## configuration
 
 All the options are set in the config file.
