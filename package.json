@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/Bilal-S/aws-set-cloudwatch-retention#readme",
   "dependencies": {
-    "aws-sdk": "^2.610.0",
+    "aws-sdk": "^2.814.0",
     "bluebird": "^3.7.2",
     "lodash": "^4.17.15"
   }
